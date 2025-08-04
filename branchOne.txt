@@ -5,3 +5,5 @@ first message from one branch Hello How are you
 
 
 new message add on ONE BRANCH 2025
+
+add some text for pop the stash
